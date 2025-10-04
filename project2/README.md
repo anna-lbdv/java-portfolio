@@ -2,7 +2,7 @@
 
 RESTful API для керування співробітниками: створення, читання, оновлення, видалення (CRUD). Використовує Spring Boot для backend, JPA для БД, H2 як вбудовану базу. Фільтри за відділом і зарплатою з Streams.
 
-## Tech Stack
+## Стек технологій
 - **Java 19** (Core, OOP)
 - **Spring Boot 3.2.x** (MVC, Auto-configuration)
 - **Spring Data JPA** (Repository, @Query)
@@ -10,14 +10,14 @@ RESTful API для керування співробітниками: створ
 - **Validation** (@NotBlank, @Positive)
 - **Maven** (build tool)
 
-## Features
+## Функції
 - CREATE: Додати співробітника (POST /employees)
 - READ: Список всіх / один / за відділом / високі зарплати (>70k з Streams)
 - UPDATE: Оновити за ID (PUT /employees/{id})
 - DELETE: Видалити за ID (DELETE /employees/{id})
 - БД: Авто-створення таблиць, веб-консоль H2
 
-## How to Run
+## Як запустити
 1. **Install JDK 19:** [Download](https://www.oracle.com/java/technologies/downloads/)
 2. **IntelliJ IDEA:** [Community Edition](https://www.jetbrains.com/idea/download/)
 3. **Clone & Build:** `git clone [repo-link]` → Open in IntelliJ → Maven Reload → Run 'EmployeeCrudApplication'.
@@ -35,7 +35,7 @@ RESTful API для керування співробітниками: створ
 | GET | /employees/department/{dept} | By department | - | Фільтр за "Dev" |
 | GET | /employees/high-salary | High salary (>70k) | - | Фільтр з Streams |
 
-## Screenshots
+## Скріншоти
 - Postman requests
 - <img width="1377" height="791" alt="Screenshot_1" src="https://github.com/user-attachments/assets/338889ff-356e-4ae9-b027-3334143fe894" />
 - <img width="1398" height="805" alt="Screenshot_2" src="https://github.com/user-attachments/assets/f0c399a2-feb2-4547-9bf8-9fd4dedfbf5c" />
@@ -43,19 +43,7 @@ RESTful API для керування співробітниками: створ
 - <img width="1380" height="694" alt="Screenshot_4" src="https://github.com/user-attachments/assets/73d2918b-21f4-488a-8bac-05d48b6495a4" />
 
 
-
-
 - H2 Console Table
 - <img width="943" height="460" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f4abcc46-7a1c-4f56-9801-1b2f5eee0368" />
 
-
-## What I Learned
-- Spring Boot: @RestController, @Autowired, Auto-config.
-- JPA: @Entity, Repository extends JpaRepository, @Query.
-- Validation: @NotBlank, @Valid.
-- Streams: Фільтрація в Service.
-- Testing: Postman для REST, H2 для БД.
-
-Challenges: Фікс валідації (starter-validation), main клас.
-
-Thanks for checking! 🚀 Contact: [LinkedIn](your-link) | GitHub: [anna-ldb](https://github.com/anna-ldb)
+Дякую🚀 Contact: [LinkedIn](https://www.linkedin.com/in/anna-lebedieva-ab4080226/)
