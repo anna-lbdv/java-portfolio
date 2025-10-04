@@ -14,13 +14,13 @@ Welcome! I'm Anna, a beginner Java developer transitioning from Python. This por
 ### 1. Console Task Manager (TODO List)
 - **Description:** Simple CLI app for task management: add, list, filter unfinished (using Streams), mark done, delete.
 - **What I Learned:** OOP (classes, getters/setters), Collections, Streams (filter, forEach), Scanner.
-- **Link:** [Code](project1/taskmanager/)
+- **Link:** [Code](/project1)
 
 ### 2. Employee Management CRUD API
 - **Description:** RESTful API for employees: CREATE/READ/UPDATE/DELETE (/employees). Filters by department and salary (>70k with Streams), validation, H2 DB with auto-tables.
 - **What I Learned:** Spring Boot (@Autowired, @RestController), JPA (@Entity, Repository), Validation (@Valid), ResponseEntity for statuses.
 - **Endpoints:** POST /employees (create), GET /employees (list), PUT /employees/{id} (update), DELETE /employees/{id} (delete), GET /employees/high-salary (filter).
-- **Link:** [Code](project2/employee-crud/)
+- **Link:** [Code](/project2)
 
 ## How to Run the Portfolio
 1. Clone: `git clone https://github.com/anna-ldb/java-portfolio.git`.
