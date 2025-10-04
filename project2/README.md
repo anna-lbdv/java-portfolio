@@ -36,7 +36,7 @@ RESTful API для керування співробітниками: створ
 | GET | /employees/high-salary | High salary (>70k) | - | Фільтр з Streams |
 
 ## Screenshots
-- [Postman requests](screenshots/postman-create.png)
+- Postman requests
 - <img width="1377" height="791" alt="Screenshot_1" src="https://github.com/user-attachments/assets/338889ff-356e-4ae9-b027-3334143fe894" />
 - <img width="1398" height="805" alt="Screenshot_2" src="https://github.com/user-attachments/assets/f0c399a2-feb2-4547-9bf8-9fd4dedfbf5c" />
 - <img width="1376" height="743" alt="Screenshot_3" src="https://github.com/user-attachments/assets/8fb94815-cc88-475e-9f7c-bffb95275029" />
