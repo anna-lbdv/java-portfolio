@@ -46,4 +46,4 @@ RESTful API для керування співробітниками: створ
 - H2 Console Table
 - <img width="943" height="460" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f4abcc46-7a1c-4f56-9801-1b2f5eee0368" />
 
-Дякую🚀 Contact: [LinkedIn](https://www.linkedin.com/in/anna-lebedieva-ab4080226/)
+Дякую🚀 Контакт: [LinkedIn](https://www.linkedin.com/in/anna-lebedieva-ab4080226/)
