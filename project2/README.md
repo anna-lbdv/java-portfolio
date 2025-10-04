@@ -37,6 +37,8 @@ RESTful API для керування співробітниками: створ
 
 ## Screenshots
 - [Postman CREATE](screenshots/postman-create.png)
+- <img width="1377" height="791" alt="Screenshot_1" src="https://github.com/user-attachments/assets/338889ff-356e-4ae9-b027-3334143fe894" />
+
 - [H2 Console Table](screenshots/h2-table.png)
 
 ## What I Learned
