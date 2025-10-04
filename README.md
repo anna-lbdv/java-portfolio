@@ -22,13 +22,6 @@ Welcome! I'm Anna, a beginner Java developer transitioning from Python. This por
 - **Endpoints:** POST /employees (create), GET /employees (list), PUT /employees/{id} (update), DELETE /employees/{id} (delete), GET /employees/high-salary (filter).
 - **Link:** [Code](/project2)
 
-## How to Run the Portfolio
-1. Clone: `git clone https://github.com/anna-ldb/java-portfolio.git`.
-2. JDK 19: [Download](https://www.oracle.com/java/technologies/downloads/).
-3. IntelliJ IDEA: [Community](https://www.jetbrains.com/idea/download/).
-4. For Maven: Reload → Run main class.
-5. Test: Postman for API, console for CLI.
-
 Looking for Junior Java roles — ready for interviews! Thanks for viewing.🚀
 
 Contacts:  
