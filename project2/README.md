@@ -45,7 +45,9 @@ RESTful API для керування співробітниками: створ
 
 
 
-- [H2 Console Table](screenshots/h2-table.png)
+- H2 Console Table
+- <img width="943" height="460" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f4abcc46-7a1c-4f56-9801-1b2f5eee0368" />
+
 
 ## What I Learned
 - Spring Boot: @RestController, @Autowired, Auto-config.
